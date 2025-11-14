@@ -6,7 +6,7 @@
 
 ## Valeria García Gaona (1224100671) - GTID141
 
-#  Tabla de Contenidos (Ejercicios Guiados 3)
+#  Tabla de Contenidos (Ejercicios Guiados Unidad 3)
 
 | Documento | Tipo | Descripción | Evidencia |
 |-----------|------|-------------|---------|
