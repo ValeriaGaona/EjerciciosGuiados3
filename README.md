@@ -15,3 +15,4 @@
 
 
 #### Conceptos de árboles (Imagen)
+![Imagen de WhatsApp 2025-11-21 a las 14 49 33_6d3a4846](https://github.com/user-attachments/assets/cd12425c-691d-498b-9659-2527886b99a6)
