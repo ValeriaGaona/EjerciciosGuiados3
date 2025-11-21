@@ -15,4 +15,6 @@
 
 
 #### Conceptos de árboles (Imagen)
+<img width="458" alt="image" src="https://github.com/user-attachments/assets/740e441a-9de3-4c05-ba82-534020cdf3db" />
+
 <img width="439" height="240" alt="image" src="https://github.com/user-attachments/assets/479b2b0d-bdb7-441f-937a-fd39c3db12fb" />
