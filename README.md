@@ -12,6 +12,8 @@
 |-----------|------|-------------|---------|
 | *U3 Ejercicio Guiado Swing* | 📄 PDF | Ejercicio Guiado Swing | [Ver PDF](U3EjercicioGuiadoSwing.pdf) |
 | *U3 Conceptos de árboles* | 📄 PDF | Conceptos de árboles | [Ver PDF](https://github.com/ValeriaGaona/EjerciciosGuiados3/blob/main/Conceptos%20de%20%C3%A1rboles.pdf) [Ver Imagen](https://github.com/ValeriaGaona/EjerciciosGuiados3/blob/main/README.md#conceptos-de-%C3%A1rboles-imagen) |
+| *U3EJER02 Arbol Binario* | 📄 PDF | Ejercicio Guiado Arbol Binario| [Ver PDF]() |
+ 
 
 
 #### Conceptos de árboles (Imagen)
