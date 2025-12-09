@@ -15,6 +15,7 @@
 | *U3EJER02 Arbol Binario* | 📄 PDF | Ejercicio Guiado Arbol Binario| [Ver PDF](https://github.com/ValeriaGaona/EjerciciosGuiados3/blob/main/arboles-VGG.pdf) |
 | *Diccionarios Nearpod* | 📄 PDF | Diccionarios Nearpod | [Ver PDF](https://github.com/ValeriaGaona/EjerciciosGuiados3/blob/main/NearpodDiccionarios-VGG.pdf) |
 | *Conjuntos Nearpod* | 📄 PDF | Conjuntos Nearpod | [Ver PDF](https://github.com/ValeriaGaona/EjerciciosGuiados3/blob/main/NearpodConjuntos-VGG.pdf) |
+| *U3 Mapa Mental* | 📄 PDF | Mapa mental Estructura de datos | [Ver PDF](https://github.com/ValeriaGaona/EjerciciosPracticos3/blob/main/MapaMental_VGG.pdf) |
 
  
 
